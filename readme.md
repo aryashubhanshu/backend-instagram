@@ -12,7 +12,6 @@ Created some functionalities of Instagram such as:
 Used Stack: HTML, CSS, JavaScript, EJS, NodeJS, MongoDB
 Dependencies used: passport, express-session, multer, cookies
 
-<br><br>
 <h3>How to run the project locally?</h3>
 <li>Clone the project</li>
 <li>npm install</li>
