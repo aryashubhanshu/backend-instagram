@@ -11,3 +11,11 @@ Created some functionalities of Instagram such as:
 <br><br>
 Used Stack: HTML, CSS, JavaScript, EJS, NodeJS, MongoDB
 Dependencies used: passport, express-session, multer, cookies
+
+<br><br>
+<h3>How to run the project locally?</h3>
+<li>Clone the project</li>
+<li>npm install</li>
+<li>install nodmeon globally (npm i nodemon -g)</li>
+<li>Simply run the app using nodemon (don't write any name or index.js)</li>
+<li>Switch to Mobile View for better viewing experience</li>
